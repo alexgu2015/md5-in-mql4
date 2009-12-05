@@ -2,3 +2,9 @@
 
 进一步的资料参考：
 http://www.cnblogs.com/niniwzw/
+
+项目很简单，就不罗嗦，还建什么分支 tag 之类的了。
+
+以后bug 的更新都会在blog 上更新。如果你发现了bug，
+
+请在blog 中给我留言。
